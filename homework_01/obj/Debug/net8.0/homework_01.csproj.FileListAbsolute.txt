@@ -1,0 +1,15 @@
+E:\School\c#_functions\homework_01\obj\Debug\net8.0\homework_01.GeneratedMSBuildEditorConfig.editorconfig
+E:\School\c#_functions\homework_01\obj\Debug\net8.0\homework_01.AssemblyInfoInputs.cache
+E:\School\c#_functions\homework_01\obj\Debug\net8.0\homework_01.AssemblyInfo.cs
+E:\School\c#_functions\homework_01\obj\Debug\net8.0\homework_01.csproj.CoreCompileInputs.cache
+E:\School\c#_functions\homework_01\obj\Debug\net8.0\homework_01.sourcelink.json
+E:\School\c#_functions\homework_01\bin\Debug\net8.0\homework_01.exe
+E:\School\c#_functions\homework_01\bin\Debug\net8.0\homework_01.deps.json
+E:\School\c#_functions\homework_01\bin\Debug\net8.0\homework_01.runtimeconfig.json
+E:\School\c#_functions\homework_01\bin\Debug\net8.0\homework_01.dll
+E:\School\c#_functions\homework_01\bin\Debug\net8.0\homework_01.pdb
+E:\School\c#_functions\homework_01\obj\Debug\net8.0\homework_01.dll
+E:\School\c#_functions\homework_01\obj\Debug\net8.0\refint\homework_01.dll
+E:\School\c#_functions\homework_01\obj\Debug\net8.0\homework_01.pdb
+E:\School\c#_functions\homework_01\obj\Debug\net8.0\homework_01.genruntimeconfig.cache
+E:\School\c#_functions\homework_01\obj\Debug\net8.0\ref\homework_01.dll

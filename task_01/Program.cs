@@ -115,4 +115,3 @@
 
 // Console.WriteLine($"Массив: [{string.Join("; ", rez)}]");
 // Console.WriteLine($"Число -> {ConvertArrayToInteger(rez)}");
-
