@@ -82,36 +82,36 @@
 // [1 3 2 4 2 3] => 132423
 // [2 3 1] => 231
 
-// int[] CreateArray(int size)
-// {
-//     int[] array = new int[size]; // массив на size элементов
-//     for (int i = 0; i < array.Length; i++)
-//     {
-//         array[i] = new Random().Next(10);
-//     }
-//     return array;
-// }
+int[] CreateArray(int size)
+{
+    int[] array = new int[size]; // массив на size элементов
+    for (int i = 0; i < array.Length; i++)
+    {
+        array[i] = new Random().Next(10);
+    }
+    return array;
+}
 
-// int ConvertArrayToInteger(int[] array)
-// {
-//     int rezult = 0;
-//         for (int i = 0, j = array.Length - 1; i< array.Length; i++, j--)
-//         {
-//             rezult = rezult + array[i] * (int)Math.Pow(10, j);
-//         }
-//     return rezult;
-// }
+int ConvertArrayToInteger(int[] array)
+{
+    int rezult = 0;
+        for (int i = 0, j = array.Length - 1; i< array.Length; i++, j--)
+        {
+            rezult = rezult + array[i] * (int)Math.Pow(10, j);
+        }
+    return rezult;
+}
 
 
-// Console.Write("Введите размер массива -> ");
-// int N = Convert.ToInt32(Console.ReadLine());
-// int[] rez = CreateArray(N);
+Console.Write("Введите размер массива -> ");
+int N = Convert.ToInt32(Console.ReadLine());
+int[] rez = CreateArray(N);
 
-// if (N > 8)
-// {
-//     Console.WriteLine("Размер > 8 элементов");
-//     return;
-// }
+if (N > 8)
+{
+    Console.WriteLine("Размер > 8 элементов");
+    return;
+}
 
-// Console.WriteLine($"Массив: [{string.Join("; ", rez)}]");
-// Console.WriteLine($"Число -> {ConvertArrayToInteger(rez)}");
+Console.WriteLine($"Массив: [{string.Join("; ", rez)}]");
+Console.WriteLine($"Число -> {ConvertArrayToInteger(rez)}");
